@@ -1,4 +1,4 @@
 # Student-Mobility-2010
-Studen Mobility 2010.ipynb
+Student Mobility 2010.ipynb
 
 
